@@ -14,6 +14,14 @@
 
 ## Engines
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+
+### 📊 Stats
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=gogosal&show_icons=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/gogosal#gh-dark-mode-only)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=gogosal&show_icons=true#gh-light-mode-only)](https://github.com/gogosal#gh-light-mode-only)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gogosal&layout=compact&theme=tokyonight#gh-dark-mode-only)](/#gh-dark-mode-only)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gogosal&layout=compact#gh-light-mode-only)](/#gh-light-mode-only)
 <!--
 **DiogoFernandes/DiogoFernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
